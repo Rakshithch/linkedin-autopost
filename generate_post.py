@@ -60,7 +60,7 @@ WRITING RULES — follow strictly:
 - 5–8 hashtags at the very end using # symbol (e.g. #HealthcareAI — NOT hashtag#HealthcareAI)
 - Max 2 emojis total
 - Tone: confident, knowledgeable, conversational — not corporate
-- Return ONLY the final post text. No preamble, no explanation, no thinking out loud."""
+- Return ONLY the final post text. No preamble, no explanation, no thinking out loud, no dashes or separators."""
 
     user_prompt = f"""Today is {today}.
 
